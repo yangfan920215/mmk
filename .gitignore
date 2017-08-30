@@ -1,0 +1,17 @@
+# file
+/novel/*.pyc
+/novel/*.ini
+/novel/*.log
+/novel/gunicorn.py
+/novel/pro_config.py
+/novel/tags
+/novel/.DS_Store
+# dir
+/novel/__pycache__/
+/novel/.vscode/
+/novel/build/
+/novel/dist/
+/novel/*.egg-info/
+/novel/mdui.css
+/novel/mdui.js
+/novel/owllook.env
